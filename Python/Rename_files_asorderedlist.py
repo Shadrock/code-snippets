@@ -1,4 +1,7 @@
+# Python 3 code to rename multiple files in a directory or folder as an ordered list, eg. IDCE_1, IDCE_2, etc. From https://www.geeksforgeeks.org/rename-multiple-files-using-python/
+
 #!/usr/bin/env python
+
 # importing os module
 import os
 # Function to rename multiple files
