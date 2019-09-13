@@ -28,4 +28,7 @@ Save by clicking the green "commit" button below. You can add details about the 
 
 ### 5. Add your images!
 After you've created a folder by creating a file, open that folder by clicking on it from your repo. Then click the "Upload Files" button to drag and drop (or upload) your image file. 
-![](Step4_upload_images.png)
+![](images/Step4_upload_images.png)
+
+### 6. Linking to your images
+To create a link in Markdown the syntax is ```![Add text](Add link)```. Any text that you add in the 'Add text' spot will appear if the link doesn't show up or if you hover your mouse over the images (you can leave it blank if you want). The 'Add link' spot is where you put your link. And the link is simply the folder name followed by the / followed by the complete image name. The last image on this page, for example, looks like this: ```![](images/Step4_upload_images.png)```.
