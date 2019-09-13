@@ -6,4 +6,5 @@ This is a repo that I used to:
 ## Some Examples
 If this was a really amazing README, quote somebody who said:
 > Wow, amazing repo. 
+
 I might also need to **bold something**, *italicize something*, or ~~have stricken text strike~~ something out to show an edit or mistake. 
