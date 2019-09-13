@@ -26,4 +26,6 @@ Github won't create an empty folder, so create a file and start by entering a na
 Save by clicking the green "commit" button below. You can add details about the changes you're making if you like in the form fields there. These are just for documentation and won't appear on any of your pages. 
 ![](images/Step3_document_commit.png)
 
-5. After you've created a folder by creating a file, open that folder by clicking on it from your repo. Click the 
+### 5. Add your images!
+After you've created a folder by creating a file, open that folder by clicking on it from your repo. Then click the "Upload Files" button to drag and drop (or upload) your image file. 
+![](Step4_upload_images.png)
