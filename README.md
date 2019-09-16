@@ -2,7 +2,6 @@
 This is a repo that I use to:
 - store bits and pieces of code I find helpful, and 
 - demonstrate the amazing value of Markdown for Github repos.
-- this is a new line. 
 
 ## Some Examples
 If this was a really amazing README, quote somebody who said:
