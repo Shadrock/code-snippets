@@ -1,5 +1,4 @@
 # Code Snippets
-![](images/Step1_Create_new_file.png)
 This is a repo that I use to:
 - store bits and pieces of code I find helpful, and 
 - demonstrate the amazing value of Markdown for Github repos.
